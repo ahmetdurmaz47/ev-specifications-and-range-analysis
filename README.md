@@ -1,4 +1,3 @@
-
 # Analyzing the Relationship Between Electric Vehicle Specifications and Driving Range
 
 ## Overview
